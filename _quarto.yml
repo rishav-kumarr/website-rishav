@@ -1,0 +1,23 @@
+project: 
+  type: website
+  preview: 
+    browser: true
+
+website:  
+  title: "Rishav Kumar"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Publication"
+        href: publication.qmd
+      - text: "Project"
+        href: project.qmd
+format:
+  html:
+    theme: cosmo
+    fontcolor: "#782311"
+    linkcolor: black
+    
