@@ -3,4 +3,3 @@ title: "about"
 format: html
 ---
 
-Project: Assessing Functioning of Internal Complaint Committees and Equal Opportunity CellsEvaluating the operational effectiveness of Internal Complaint Committees (ICCs) and EqualOpportunity Cells (EOCs) in educational institutions through data analysis, stakeholder interviews,and policy reviews.Designing frameworks and best practices to enhance the inclusivity, transparency, andaccessibility of ICCs and EOCs, ensuring compliance with regulatory standards
