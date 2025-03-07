@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rishav-kumarr.netlify.app/publication.html</loc>
-    <lastmod>2025-03-04T10:17:42.294Z</lastmod>
+    <loc>https://rishav-kumarr.netlify.app/project.html</loc>
+    <lastmod>2025-03-07T10:13:16.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rishav-kumarr.netlify.app/documentary.html</loc>
+    <lastmod>2025-03-07T09:57:09.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rishav-kumarr.netlify.app/about-me.html</loc>
+    <lastmod>2025-03-07T05:50:36.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rishav-kumarr.netlify.app/articles.html</loc>
+    <lastmod>2025-03-07T09:57:09.346Z</lastmod>
   </url>
   <url>
     <loc>https://rishav-kumarr.netlify.app/index.html</loc>
-    <lastmod>2025-03-04T10:28:36.439Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rishav-kumarr.netlify.app/about.html</loc>
-    <lastmod>2025-03-05T04:52:19.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rishav-kumarr.netlify.app/project.html</loc>
-    <lastmod>2025-03-04T10:18:03.300Z</lastmod>
+    <lastmod>2025-03-07T10:06:03.144Z</lastmod>
   </url>
 </urlset>

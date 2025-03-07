@@ -1,20 +1,23 @@
 ---
 title: "Rishav Kumar"
 subtitle: "Master's student at Jawaharlal Nehru University"
-image: images/profile.jpg
+image: images/web-image-rishav.jpg
 about:
   template: jolla
   links:
+    - icon: mail
+      text: Mail
+      href: connect.rishavkumar@gmail.com
+    - icon: instagram
+      text: Instagram
+      href: https://github.com/sara-institute
     - icon: github
       text: GitHub
       href: https://github.com/sara-institute
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ajay-kumar-koli/
-    - icon: twitter
+    - icon: x
       text: Twitter
       href: https://www.linkedin.com/in/ajay-kumar-koli/
----
-
-
-Myself Rishav currently pursuing masters at Centre for Political Studies, JNU. I have a keen interest in the intersection of Digital World and Human Rights. 
+---      

@@ -6,36 +6,29 @@ project:
 website:  
   title: "Rishav Kumar"
   site-url: "https://rishav-kumarr.netlify.app/"
-  description: let's connect
+  description: "Let's connect"
   twitter-card: true
   navbar:
     left:
-      - text: "More"
+      - text: "Home"
+        href: index.qmd
+      - text: "About Me"
+        href: about-me.qmd
+      - text: "Published Work"
         menu:
-          - text: "Home"
-            href: index.qmd
-          - text: "About"
-            href: about.qmd
-          - text: "Publication"
-            href: publication.qmd
-          - text: "Project"
-            href: project.qmd
+          - text: "Articles"
+            href: articles.qmd
+          - text: "Documentary"
+            href: documentary.qmd
             
-  
-  
-        
-    tools:
-      - icon: twitter
-        href: https://www.linkedin.com/in/ajay-kumar-koli/
+      - text: "Personal Project"
+        href: project.qmd         
 
   page-footer: 
     left: "Copyright 2025, Rishav Kumar" 
-    right: "supported by [SARA](https://sara-edu.netlify.app/)" 
-      
+    right: "Made with support of [SARA](https://sara-edu.netlify.app/)" 
+        
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: style.css
-    fontcolor: "#782311"
-    linkcolor: black
-    
